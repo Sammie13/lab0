@@ -1,0 +1,20 @@
+body {
+      background-color: coral;
+      font-family: Verdana;
+      text-align: center;
+      padding-top: 200px;
+      font-size: 24px;
+}
+h1   {color: white;}
+p    {color: white;}
+.btn {
+    border: 2px solid white;
+    background-color: coral;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+}
+#second-body {
+  background-color: yellow;
+}
